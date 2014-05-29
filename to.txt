@@ -1,0 +1,9 @@
+Login multiple login at once
+Need to change language folder name to english from en bocz of system files library
+userdata in session
+validation javascript
+Userdata session storing
+Password Hashing algorithm
+Codeigniter Auth
+Codeginiter Acl
+Codegitnier Language

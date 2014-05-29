@@ -1,0 +1,5 @@
+Modules routing from config file - NOT POSSIBLE - TRY WITH PIPE SIGN PARAMATERS
+change name front to site - DONE
+language management - DONE
+theme management
+mail templates
